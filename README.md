@@ -23,13 +23,6 @@ Course: DSA Lab
 - Stack-based path tracking so robot can retreat step by step
 - Full memory cleanup on exit (no leaks — BST, list, queue, stack all freed)
 
-## How to Run
-
-```bash
-g++ volcano_exploration_robot.cpp -o volcano_robot
-./volcano_robot
-```
-
 ## Menu Overview
 - 1-4: Zone Manager (BST)
 - 5-8: Robot Manager (Linked List)
